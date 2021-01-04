@@ -1,0 +1,15 @@
+html, body {
+  background: white;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20vh;
+  background: white;
+}
+
+img {
+  max-width: 200px;
+}
